@@ -1,0 +1,50 @@
+div{
+     margin: 0 auto;
+     width: 1000px;
+     border: 5px solid white;
+}
+
+.header{
+    background-color: cyan;
+    height: 250px;
+}
+
+.main{
+    background-color: pink;
+    height: 100px;
+}
+
+.section{
+    height: 400px;
+}
+
+p{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.login{
+    float: left;
+    background-color: yellow;
+    height: 80px;
+    width: 160px;
+}
+
+.info{
+    float: left;
+    background-color: red;
+    height: 300px;
+    width: 160px;
+}
+
+.chat{
+    float: right;
+    background-color: blue;
+    height: 390px;
+    width: 800px;
+}
+
+.footer{
+    background-color: black;
+    height: 100px;
+}
